@@ -1,0 +1,45 @@
+body{
+    background-color: skyblue;
+}
+
+.container{
+    margin-top: 20px;
+    width: 450px;
+    height: 500px;
+    background-color: white;margin-left: 600px;
+
+}
+h1{
+    margin-left: 40px;
+}
+.margin{
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+.label{
+    display: flex;
+}
+.forgot{
+    float: right;
+    margin: 10px;
+}
+.sign{
+    margin: 40px;
+}
+.btn{
+    width: 70%;
+    background-color: palevioletred;
+    height: 40px;
+    color: white;
+    border: 0px ;
+    /* background-color: aliceblue; */
+    border-radius: 10px;
+}
+.fill{
+    width: 70%;
+    height: 40px;
+    /* border: 0px solid gainsboro; */
+    border-radius: 10px;
+    /* background-color: aliceblue; */
+}

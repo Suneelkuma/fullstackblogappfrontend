@@ -1,0 +1,24 @@
+.createcontainer{
+    width: 600px;
+    height: 600px;
+    margin-left: 600px;
+    background-color: antiquewhite;
+}
+.field{
+    margin:  30px 30px 20px 20px;
+}
+.text{
+    width: 70%;
+    height: 40px;
+    margin-top: 40px;
+}
+.btn1{
+    width: 30%;
+    background-color: palevioletred;
+    height: 40px;
+    color: white;
+    border: 0px ;
+    /* background-color: aliceblue; */
+    border-radius: 10px;
+    margin-left: 100px;
+}
